@@ -1,0 +1,38 @@
+name: CI github/workflows/main yml
+
+https://github.com/https-github-com-ruzyysmartt/Smart-ether-data-emulate-repository.git
+on: [push] commit remix repository 
+
+jobs:system operational incident network workflows main yml
+  build:ruzyysmartt /data emulate storage remix debungge repository
+
+    runs-on: ubuntu-latest/nodes release coverage json
+
+    steps:final (matrix nodes js system operational network repository npm main yml 
+    - uses: actions/checkout@v2
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |npm workflows main yml nodes json
+        echo Add other actions to build,
+        echo test, and deploy your project.
+     - resurlt    - suksess
+name: CI github/workflows/main yml
+
+https://github.com/https-github-com-ruzyysmartt/Smart-ether-data-emulate-repository.git
+on: [push] commit remix repository 
+
+jobs:system operational incident network workflows main yml
+  build:ruzyysmartt /data emulate storage remix debungge repository
+
+    runs-on: ubuntu-latest/nodes release coverage json
+
+    steps:final (matrix nodes js system operational network repository npm main yml 
+    - uses: actions/checkout@v2
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |npm workflows main yml nodes json
+        echo Add other actions to build,
+        echo test, and deploy your project.
+     - resurlt    - suksess
