@@ -1,0 +1,66 @@
+#contract data
+
+#Smart-ether-data-emulate-repository 
+
+commit remix debungge overall dicompile storage data emulate to global dinamic repository 
+(Create login: ruzyysmartt      
+owned: ruzyysmattt             
+content id: 52005723.                            
+https://github.com/ruzyysmartt/Smartt-ether-data-emulate-repository                              
+email: ruzyysmartt@gmail.com.               .  
+Contract data  addr: 0x62991A1B4187481C8B5BB49Fa567711e09fF488D 
+network: mainnet  
+Balance:  0.07141859318989936 Ether 
+source: 0x62991A1B4187481C8B5BB49Fa567711e09fF488D
+   
+Code Abi  Experimental auto-generated ABI 
+addr: 0x62991A1B4187481C8B5BB49Fa567711e09fF488D 
+network: mainnet  
+Please note: - function parameter names Smart ether data emulate repository
+ [     {         "type": "fallback",         "stateMutability": "payable"     } ]  0x62991A1B4187481C8B5BB49Fa567711e09fF488D 
+ Code Json  Panoramix JSON output for easy automated analysis  
+addr: 0x62991A1B4187481C8B5BB49Fa567711e09fF488D
+network: mainnet 
+ver: 01 jan 2020 
+no problems: {} 
+source: /code/0x62991A1B4187481C8B5BB49Fa567711e09fF488D.json 
+also available through BigQuery  
+stor_defs:    [def, "stor0", 0, [mask, 256, 0]]  
+functions:    def _fallback(): # payable     [if, "calldatasize", [     
+[delegatecall, "gas", [stor, 256, 0, [loc, 0]], [call.data, 0, 4], 
+[call.data, 4, [add, -4, "calldatasize"]]],        [if, [iszero, "delegate.return_code"], 
+[[revert, [ext_call.return_data, 0, "returndatasize"]],        ],
+[[return, [ext_call.return_data, 0, "returndatasize"]],        ]      ],
+[[if, [le, "callvalue", 0], [[delegatecall, "gas", [stor, 256, 0, [loc, 0]], 
+[call.data, 0, 4], [call.data, 4, [add, -4, "calldatasize"]]],          
+[if, [iszero, "delegate.return_code"], 
+[[revert, [ext_call.return_data, 0, "returndatasize"]],          ],
+[[return, [ext_call.return_data, 0, "returndatasize"]],          ]        ],
+[[log, [data, [arr, "calldatasize", [call.data, 0, "calldatasize"]]], 
+0x606834f57405380c4fb88d1f4850326ad3885f014bab3b568dfbf7a041eef738, 
+"callvalue", "caller"],          [stop],        ]]  
+0x62991A1B4187481C8B5BB49Fa567711e09fF488D Code 
+
+##  Eveem.org 01 jan 2020  
+#  Decompiled source of 0x62991A1B4187481C8B5BB49Fa567711e09fF488D 
+##  Let's make the world open source    
+#def storage:   stor0 is uint256 at storage 0  def _fallback() payable: 
+# default function   if not calldata.size:       if call.value > 0:          
+ log Received(                 uint256 value=Array(len=calldata.size, data=call.data[0 len calldata.size]),              
+ address sender=call.value,                 bytes data=caller)           stop  
+ delegate stor0 with:      
+funct call.data[0 len 4]       
+ gas gas_remaining wei       args call.data[4 len calldata.size - 4]  
+ if not delegate.return_code:      
+ revert with ext_call.return_data[0 len return_data.size]  
+ return ext_call.return_data[0 len return_data.size]
+
+Owned by: @ruzyysmartt
+App ID: 50572
+Client secret: f96f98ac47e0b993834443a59b8ec85018785855
+Client ID: Iv1.8a73b28dfeeeac4d
+
+more info:
+content:https://github.com/ruzyysmartt/Smart-ether-data-emulate-repository.gits
+©️GitHub.2020
+
