@@ -1,10 +1,10 @@
 workspace.xml
-junitvmwatcher*.properties
-build.properties
+Smart-ether-data-emulate-repository
+build.repository
 
 # generated java classes and java source files
 #   manually add any custom artifacts that can't be generated from the models
-#   http://confluence.jetbrains.com/display/MPSD25/HowTo+--+MPS+and+Git
+#   https://github.com/ruzyysmartt/Smart-ether-data-emulate-repository.git
 classes_gen
 source_gen
 source_gen.caches
@@ -14,3 +14,8 @@ test_gen
 test_gen.caches
 TEST-*.xml
 junit*.properties
+
+more info
+
+https://github.com/ruzyysmartt/Smart-ether-data-emulate-repository.git
+©️Github.2020
